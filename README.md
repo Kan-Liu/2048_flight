@@ -14,5 +14,6 @@ Stay tuned for possible future development:
 - Customizable game pieces
 - New piece maneuver like piece teleporting and board flipping
 - Reversing moves
+- AI player for the game
 
 **Enjoy!**
